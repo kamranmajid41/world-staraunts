@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/word-staraunts/static/css/main.8fd21293.css",
+    "main.js": "/word-staraunts/static/js/main.3eb5f632.js",
+    "static/js/879.95ec4f97.chunk.js": "/word-staraunts/static/js/879.95ec4f97.chunk.js",
+    "static/media/marker_red.png": "/word-staraunts/static/media/marker_red.0d23c9643585b836a51f.png",
+    "index.html": "/word-staraunts/index.html",
+    "main.8fd21293.css.map": "/word-staraunts/static/css/main.8fd21293.css.map",
+    "main.3eb5f632.js.map": "/word-staraunts/static/js/main.3eb5f632.js.map",
+    "879.95ec4f97.chunk.js.map": "/word-staraunts/static/js/879.95ec4f97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd21293.css",
+    "static/js/main.3eb5f632.js"
+  ]
+}
