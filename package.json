@@ -2,7 +2,7 @@
   "name": "world-staurants",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kamranmajid41.github.io/word-staraunts", 
+  "homepage": "https://kamranmajid41.github.io/world-staraunts", 
   "dependencies": {
     "@mantine/core": "^7.14.2",
     "@mantine/hooks": "^7.14.2",
