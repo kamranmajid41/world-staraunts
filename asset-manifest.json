@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/world-staraunts/static/css/main.8fd21293.css",
-    "main.js": "/world-staraunts/static/js/main.1f44203f.js",
+    "main.js": "/world-staraunts/static/js/main.fa11719f.js",
     "static/js/879.95ec4f97.chunk.js": "/world-staraunts/static/js/879.95ec4f97.chunk.js",
     "static/media/marker_red.png": "/world-staraunts/static/media/marker_red.0d23c9643585b836a51f.png",
     "index.html": "/world-staraunts/index.html",
     "main.8fd21293.css.map": "/world-staraunts/static/css/main.8fd21293.css.map",
-    "main.1f44203f.js.map": "/world-staraunts/static/js/main.1f44203f.js.map",
+    "main.fa11719f.js.map": "/world-staraunts/static/js/main.fa11719f.js.map",
     "879.95ec4f97.chunk.js.map": "/world-staraunts/static/js/879.95ec4f97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fd21293.css",
-    "static/js/main.1f44203f.js"
+    "static/js/main.fa11719f.js"
   ]
 }
